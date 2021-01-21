@@ -6,7 +6,7 @@ Public: 0.417, Private: 0.421
 https://boosters.pro/championship/alfabattle2/rating
 
 
-Решение основано на единственной модели, полученной с помощью градиентого бустинка (LGBM)
+Решение основано на единственной модели, полученной с помощью градиентого бустинга (LGBM)
 
 prepare target data for model.ipynb - подготовка target данных <br />
 prepare clickstream data.ipynb - подготовка паркетных данных <br />
